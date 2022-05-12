@@ -1,4 +1,4 @@
-﻿# Tarea 7 Crear 4 reportes
+﻿# Crear 4 reportes
  
 Se requiere:
 1. Reporte tipo Recibo: ReciboUsuarios
@@ -6,7 +6,9 @@ Se requiere:
 3. Reporte Listado. Listado de Usuarios
 4. Reporte Listado Agrupado. Listado de Usuarios Agrupado.
 
-# It is required:
+﻿# Create 4 reports
+
+It is required:
 
 1. Receipt Type Report: ReceiptUsers
 2. Grouped Receipt report. ReceiptUsersGrouped
