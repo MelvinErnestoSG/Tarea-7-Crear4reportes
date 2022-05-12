@@ -1,4 +1,4 @@
-﻿# Crear 4 reportes
+# Crear 4 reportes
  
 Se requiere:
 1. Reporte tipo Recibo: ReciboUsuarios
@@ -6,7 +6,7 @@ Se requiere:
 3. Reporte Listado. Listado de Usuarios
 4. Reporte Listado Agrupado. Listado de Usuarios Agrupado.
 
-﻿# Create 4 reports
+# Create 4 reports
 
 It is required:
 
